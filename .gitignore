@@ -1,0 +1,5 @@
+.idea
+venv
+app/assets/flower_photos/train/
+app/assets/flower_photos/test/
+app/assets/flower_photos/validation/
