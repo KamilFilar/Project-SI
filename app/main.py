@@ -55,6 +55,7 @@ def main():
 
 
     for i in range(len(random_images)):
+        # Załadowanie obrazu i nadanie mu odpowiedniego rozmiaru
         test_image = image.load_img(random_images[i], target_size=(224, 224))
 
         # Konwertowanie wczytanego obrazu na tablicę wielowymiarową

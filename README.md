@@ -11,6 +11,6 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1ECTVN
 
 3. Extract the files into three folders (test, train, validation in app/assets/flower_photos)
 
-4. Run cnnModel.py file
+4. Run model.py file
 
 5. Run main.py
